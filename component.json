@@ -1,10 +1,10 @@
 {
     "name": "lodash._baseslice",
-    "description": "The internal lodash function `baseSlice` exported as a module.",
-    "repos": "https://github.com/lodash/lodash.git",
+    "description": "The modern build of lodash’s internal `baseSlice` as a module.",
+    "repos": "https://github.com/lodash/lodash",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
     "main": "index.js",
-    "version": "4.0.0"
+    "version": "3.0.0"
 }
